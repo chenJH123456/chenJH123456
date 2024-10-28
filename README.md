@@ -26,11 +26,20 @@ Here are some ideas to get you started:
 
 <div id="img" align=center>
 
-<!-- [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mg$E7%99%BD-yellow)](https://www.zhihu.com/people/o4ze4r) [![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg) [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cPp/welcome-back-to-cpp-modern-cpp)
-![](https://img.shields.io/badge/讨厌-学习-yellow) ![](https://img.shields.io/badge/性格-开朗-red) ![](https://img.shields.io/badge/爱好-二次元-red) -->
+<!-- [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mg$E7%99%BD-yellow)](https://www.zhihu.com/people/o4ze4r) 
+[![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
+[![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cPp/welcome-back-to-cpp-modern-cpp) -->
+
+![](https://img.shields.io/badge/O-红迷-red) ![](https://img.shields.io/badge/O-绘画-red) ![](https://img.shields.io/badge/O-大自然-red)
 
 </div>
 
 <!-- ![头像](image/头像.jpg)
 
 ![Visitor Count](https://profile-counter.glitch.me/Mg-b/count.svg) -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
+</picture>
