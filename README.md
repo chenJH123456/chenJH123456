@@ -28,11 +28,19 @@ Here are some ideas to get you started:
 
 </div>
 
-<div id="img" align=center>
-
-<a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/-前端-%23ff000083?style=for-the-badge"/></a> <a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/-Vue-%23e89d29ba?style=for-the-badge"/></a> <a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/-Js-%23e89d29ba?style=for-the-badge"/></a>
-
-</div>
+<p align="center"> 
+      <!-- &emsp;&emsp;&emsp; -->
+      <!-- 前端 -->
+      <a href=""><img src="https://img.shields.io/badge/Vue.js-35495e.svg?style=flat-square&logo=vue.js&logoColor=4FC08D" ></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/React-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB" ></a>&emsp;
+      <!-- <a href=""><img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white" ></a>&emsp; -->
+      <!-- 后端和数据库 -->
+      <!-- <a href=""><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" ></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" ></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" ></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white" ></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" ></a>&emsp; -->
+</p>
 
 <div id="img" align=center>
 
