@@ -30,12 +30,17 @@ Here are some ideas to get you started:
 
 <div id="img" align=center>
 
+<a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/-前端-%23ff000083?style=for-the-badge"/></a> <a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/-Vue-%23e89d29ba?style=for-the-badge"/></a> <a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/-Js-%23e89d29ba?style=for-the-badge"/></a>
+
+</div>
+
+<div id="img" align=center>
+
 <a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/📖-红迷-%23f5e1c0?style=for-the-badge"/></a> <a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/🎨-绘画-%23f5e1c0?style=for-the-badge"/></a> <a href="https://https://github.com/chenJH123456" target="_blank"><a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/🌄-大自然-%23f5e1c0?style=for-the-badge"/></a>
 
 </div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chenJH123456&theme=gruvbox-duo&hide_border=%E7%9C%9F&border_radius=6&locale=zh_Hans&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake-dark.svg">
