@@ -24,13 +24,18 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chenJH123456&layout=compact&langs_count=8&card_width=344&theme=moltack" />
 </a>
 
+<div align="center">
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+</div>
+
 <div id="img" align=center>
 
-<!-- [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mg$E7%99%BD-yellow)](https://www.zhihu.com/people/o4ze4r) 
+<!-- [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mg$E7%99%BD-yellow)](https://www.zhihu.com/people/o4ze4r)
 [![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
 [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cPp/welcome-back-to-cpp-modern-cpp) -->
 
-![](https://img.shields.io/badge/O-红迷-red) ![](https://img.shields.io/badge/O-绘画-red) ![](https://img.shields.io/badge/O-大自然-red)
+<!-- ![](https://img.shields.io/badge/O-红迷-orange) ![](https://img.shields.io/badge/O-绘画-orange) ![](https://img.shields.io/badge/O-大自然-orange) -->
+<a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/📖-红迷-%23e5ad3bb0?style=for-the-badge"/></a> <a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/🎨-绘画-%23e5ad3bb0?style=for-the-badge"/></a> <a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/🌄-大自然-%23e5ad3bb0?style=for-the-badge"/></a>
 
 </div>
 
@@ -42,4 +47,5 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
+
 </picture>
