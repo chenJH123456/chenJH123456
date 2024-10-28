@@ -24,8 +24,8 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chenJH123456&layout=compact&langs_count=8&card_width=344&theme=moltack" />
 </a>
 
-<div align="center">
--------------------------------------------------------------------------------------------------------------------------------------------------------
+## <div align="center">
+
 </div>
 
 <div id="img" align=center>
@@ -33,6 +33,12 @@ Here are some ideas to get you started:
 <a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/📖-红迷-%23f5e1c0?style=for-the-badge"/></a> <a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/🎨-绘画-%23f5e1c0?style=for-the-badge"/></a> <a href="https://https://github.com/chenJH123456" target="_blank"><a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/🌄-大自然-%23f5e1c0?style=for-the-badge"/></a>
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=chenJH123456&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=chenJH123456&theme=light&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chenJH123456&theme=default&hide_border=true" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake-dark.svg">
