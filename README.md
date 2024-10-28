@@ -34,11 +34,8 @@ Here are some ideas to get you started:
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=chenJH123456&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=chenJH123456&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chenJH123456&theme=default&hide_border=true" />
-</picture>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chenJH123456&theme=gruvbox-duo&hide_border=%E7%9C%9F&border_radius=6&locale=zh_Hans&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake-dark.svg">
