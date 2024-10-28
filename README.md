@@ -1,4 +1,4 @@
-## Hi 👋（社恐超绝打招呼）
+## Hi 👋（社恐超绝线上打招呼版）
 
 <!--
 **chenJH123456/chenJH123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chenJH123456&show_icons=true&theme=moltack" />
 </a>
 <a href="https://github.com/chenJH123456">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chenJH123456&layout=compact&langs_count=8&card_width=320&theme=moltack" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chenJH123456&layout=compact&langs_count=8&card_width=360&theme=moltack" />
 </a>
 
 <div id="img" align=center>
