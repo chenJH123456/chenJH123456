@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <div id="img" align=center>
 
-<a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/📖-红迷-%23e5ad3bb0?style=for-the-badge"/></a> <a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/🎨-绘画-%23e5ad3bb0?style=for-the-badge"/></a> <a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/🌄-大自然-%23e5ad3bb0?style=for-the-badge"/></a>
+<a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/📖-红迷-%23f5e1c0?style=for-the-badge"/></a> <a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/🎨-绘画-%23f5e1c0?style=for-the-badge"/></a> <a href="https://https://github.com/chenJH123456" target="_blank"><a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/🌄-大自然-%23f5e1c0?style=for-the-badge"/></a>
 
 </div>
 
