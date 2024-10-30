@@ -6,12 +6,15 @@
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
     <img width="800" src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=3000&center=true&color=FFDAAD&vCenter=true&repeat=true&width=435&lines=Welcome+to+my+GitHub+profile+page+." />
 </p>
-<a href="https://github.com/chenJH123456">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chenJH123456&show_icons=true&theme=moltack" />
-</a>
-<a href="https://github.com/chenJH123456">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chenJH123456&layout=compact&langs_count=8&card_width=344&theme=moltack" />
-</a>
+
+<p align="center">
+  <a href="https://github.com/chenJH123456">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chenJH123456&show_icons=true&theme=moltack" />
+  </a>
+  <a href="https://github.com/chenJH123456">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chenJH123456&layout=compact&langs_count=8&card_width=344&theme=moltack" />
+  </a>
+</p>
 
 <p height=200></p>
 
