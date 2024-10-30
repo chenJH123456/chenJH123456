@@ -4,7 +4,7 @@
 <!-- ### 学习 ing... -->
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=Nunito&duration=3000&pause=1000&color=FFDAAD&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&random=%E5%81%87&width=435&lines=Hi+%2C+traveller+!;Welcome+to+my+GitHub+profile+page+." />
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=Nunito&duration=3000&pause=1000&color=FFDAAD&center=&vCenter=&repeat=&random=&width=435&lines=Hi+%2C+traveller+!;Welcome+to+my+GitHub+profile+page+." />
 </p>
 <a href="https://github.com/chenJH123456">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chenJH123456&show_icons=true&theme=moltack" />
