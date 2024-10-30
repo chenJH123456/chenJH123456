@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=header&text=Hi%,%traveller%!&fontSize=60&fontAlign=50&fontAlignY=36&desc=&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
-<!-- ### 学习 ing... -->
 <p align="center">
-    <!-- https://github.com/DenverCoder1/readme-typing-svg -->
     <img width="800" src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=3000&center=true&color=FFDAAD&vCenter=true&repeat=true&width=435&lines=Welcome+to+my+GitHub+profile+page+." />
 </p>
 
@@ -17,10 +15,8 @@
   </a>
 </p>
 
-<p height=200></p>
-
 <p align="center"> 
-      <!-- &emsp;&emsp;&emsp; -->
+      &emsp;&emsp;
       <!-- 前端 -->
       <a href=""><img src="https://img.shields.io/badge/Vue.js-35495e.svg?style=flat-square&logo=vue.js&logoColor=4FC08D" ></a>&emsp;
       <!-- <a href=""><img src="https://img.shields.io/badge/React-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB" ></a>&emsp; -->
