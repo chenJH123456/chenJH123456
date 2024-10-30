@@ -1,22 +1,11 @@
-## Hi 👋（社恐超绝线上打招呼版）
-
-<!--
-**chenJH123456/chenJH123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### 学习 ing...
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=&fontSize=90&fontAlign=50&fontAlignY=30&desc=&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
+<!-- ### 学习 ing... -->
+<p align="center">
+    <!-- https://github.com/DenverCoder1/readme-typing-svg -->
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=Nunito&duration=3000&pause=1000&color=FFDAAD&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&random=%E5%81%87&width=435&lines=Hi+%2C+traveller+!;Welcome+to+my+GitHub+profile+page+." />
+</p>
 <a href="https://github.com/chenJH123456">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chenJH123456&show_icons=true&theme=moltack" />
 </a>
@@ -56,3 +45,7 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
 
 </picture>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=&fontSize=90&fontAlign=50&fontAlignY=70&desc=&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+</p>
