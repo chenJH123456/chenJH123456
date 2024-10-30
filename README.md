@@ -1,6 +1,6 @@
-<p align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=header&text=Hi , traveller !&fontSize=60&fontAlign=50&fontAlignY=36&desc=&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-</p>
+
 <!-- ### 学习 ing... -->
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
@@ -44,6 +44,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&text=👆 hungry to death 👆&fontSize=40&fontAlign=50&fontAlignY=70&desc=&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-</p>
+
